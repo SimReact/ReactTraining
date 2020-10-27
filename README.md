@@ -1,2 +1,2 @@
 # ReactTraining
-Created with CodeSandbox
+Learning React (Tuesday)
